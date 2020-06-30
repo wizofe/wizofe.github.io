@@ -7,12 +7,14 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
-  - link: ''
-    link_text: Radio Amateur
-  - link: ''
-    link_text: Photography
   - link_text: Research
     link: ''
+  - link: ''
+    link_text: Photography
+  - link: ''
+    link_text: Soundscapes
+  - link: ''
+    link_text: Radio Amateur
 - template: simple-footer
   block: footer-1
   content: Public Domain. Feel free to share and copy.
