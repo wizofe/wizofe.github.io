@@ -7,6 +7,8 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
+  - link: ''
+    link_text: Photography
   - link_text: Research
     link: ''
 - template: simple-footer
