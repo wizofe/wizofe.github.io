@@ -7,6 +7,5 @@ page_sections:
   block: header-1
   logo: ''
   navigation: []
-published: false
 
 ---
