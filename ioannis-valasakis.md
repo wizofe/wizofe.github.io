@@ -18,6 +18,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Public Domain. Feel free to share and copy.
-published: false
 
 ---
