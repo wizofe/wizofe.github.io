@@ -6,6 +6,11 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link_text: Research
+    link: ''
+- template: simple-footer
+  block: footer-1
+  content: Public Domain. Feel free to share and copy.
 
 ---
