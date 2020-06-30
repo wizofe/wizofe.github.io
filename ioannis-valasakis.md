@@ -8,6 +8,8 @@ page_sections:
   logo: ''
   navigation:
   - link: ''
+    link_text: Radio Amateur
+  - link: ''
     link_text: Photography
   - link_text: Research
     link: ''
